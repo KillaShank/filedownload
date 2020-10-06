@@ -1,2 +1,2 @@
 # FileDownloadTool
-Tool to download file from URL
+Tools to download file from URL
